@@ -25,9 +25,9 @@ Entity bunny = new Entity(stanfordBunny,0,new Vector3f(50,terrain.getTerrainHeig
 ```
 
 ## Previews
-<img src="https://github.com/AndrejaKovacic/jEngine/blob/master/panorama.jpg" width ="550"/>
+<img src="https://github.com/AndrejaKovacic/jEngine/blob/master/previews/panorama.jpg" width ="550"/>
 
-<img src="https://github.com/AndrejaKovacic/jEngine/blob/master/water.jpg" width ="550"/>
+<img src="https://github.com/AndrejaKovacic/jEngine/blob/master/previews/water.jpg" width ="550"/>
 
 
 
