@@ -90,7 +90,7 @@ public class MainLoop {
 		WaterShader waterShader = new WaterShader();
 		WaterRenderer waterRenderer = new WaterRenderer(loader,waterShader,renderer.getProjectionMatrix(),fbos);
 		List<WaterTile> waters = new ArrayList<WaterTile>();
-		waters.add(new WaterTile(85,85, 0));
+		waters.add(new WaterTile(-260,-260, 0));
 		
 		  
 		MousePicker picker = new MousePicker(camera, renderer.getProjectionMatrix());
