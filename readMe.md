@@ -24,6 +24,7 @@ Player player = new Player(stanfordBunny,0,new Vector3f(0,0,0),0,180,0,1);
 Entity bunny = new Entity(stanfordBunny,0,new Vector3f(50,terrain.getTerrainHeight(50, 20), 20),0,0,0,2);
 ```
 
+## Previews
 <img src="https://github.com/AndrejaKovacic/jEngine/blob/master/panorama.jpg" width ="550"/>
 
 <img src="https://github.com/AndrejaKovacic/jEngine/blob/master/water.jpg" width ="550"/>
