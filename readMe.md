@@ -16,7 +16,7 @@ ModelTexture skin = new ModelTexture(loader.loadTextures("uni"));
 skin.setReflectivity(0.5f);
 skin.setShineDamper(10);
 //connecting mesh and texture
-TexturedModel stanfordBunny = new TexturedModel(bunny,skin);
+TexturedModel stanfordBunny = new TexturedModel(b,skin);
 
 //as a player
 Player player = new Player(stanfordBunny,0,new Vector3f(0,0,0),0,180,0,1);
